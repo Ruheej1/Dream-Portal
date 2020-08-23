@@ -25,6 +25,6 @@ When we first started we were complete beginners but as we progressed with our w
 We learnt a quite a number of things like the Unity Engine, A-frame. 
 Then we learnt never to give up and keep solving the problem until its resolved. This project not only increased our skills but also our confidence and motivation to keep growing and learning. 
 
-## What's next for AR-portal-Ios-App
+## What's next for Dream Portal
 
 We Will Create an application in which we will integrate Google Maps with our Idea and whenever the user will search a location, they will be able to experience how it feels to be there! Not only that we will integrate the nearby hotels and stores along with the view of the location.  And we will keep updating it further.
